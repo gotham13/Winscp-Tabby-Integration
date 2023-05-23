@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "winscp_arg_parser.bat " & WScript.Arguments(2) , 0, True
