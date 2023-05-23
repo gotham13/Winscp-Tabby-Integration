@@ -16,7 +16,7 @@ I had to write a batch script just to omit the first parameter. Then I had to wr
 # HOW TO USE
 * First Of All Make Sure The Normal Default Putty Integration Is Working For You. 
   Putty Is Needed To Copy The Public Key Paths And Other Stuff From The Temporary Session
-* Install Tabby
+* Install [Tabby](https://tabby.sh)
 * Clone The Repo
 * Replace The Path To Tabby Present In winscp_arg_parser.bat file
 * Install Ubuntu WSL And Make It Default ( I dont know if other linux works)
