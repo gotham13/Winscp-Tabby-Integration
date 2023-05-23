@@ -1,5 +1,5 @@
 # Winscp Tabby Integration
-One Click SSH From WinSCP To Tabby Using Native Windows OpenSSH and WSL by pulling the Public Keys And Other Stuff From The Default Winscp Temporary Session Created  For Putty By Winscp ( Replacement for open in putty)
+One Click SSH From WinSCP To Tabby Using Native Windows OpenSSH and WSL by pulling the Public Keys And Other Stuff From The Default Winscp Temporary Session Created For Putty By Winscp ( Replacement for "open in putty")
 
 # WHY
 Putty Integration Works Just Fine But Putty Doesnt Have Tabs So I End Up Opening 1000 New Windows When I Start Working Which Is Entirely My Issue But Its Frustrating
